@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858173166018",
+    "project_id": "focus-tracker-9d665",
+    "storage_bucket": "focus-tracker-9d665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858173166018:android:8be4ac97e96995a692865b",
+        "android_client_info": {
+          "package_name": "com.example.focus_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZs3uLWrK0kgYMq26uz4bBWzm6LI7ZFvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
