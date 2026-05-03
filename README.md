@@ -1,4 +1,4 @@
-# 🎯 Focus Tracker - NoFap Habit Tracker
+🎯 Focus Tracker - NoFap Habit Tracker
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.29-blue?logo=flutter" alt="Flutter">
