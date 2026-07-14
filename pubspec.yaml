@@ -1,0 +1,68 @@
+name: focus_track
+description: "A habit tracker app for building self-discipline with streak counting, badges, and progress tracking."
+publish_to: 'none'
+
+# ✅ নতুন প্লে স্টোর রিলিজের জন্য ভার্সন ও বিল্ড নাম্বার আপডেট করা হয়েছে
+version: 1.0.21+21
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  
+  # ফায়ারবেস প্লাগইনসমূহ
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.5.1
+  cloud_firestore: ^5.6.1
+  firebase_messaging: ^15.2.10 # 👈 পুশ নোটিফিকেশনের মূল প্যাকেজ
+  
+  provider: ^6.1.2
+  intl: ^0.19.0
+  shared_preferences: ^2.2.3 # 👈 লোকালাইজড ডেটা সেভ করার জন্য প্যাকেজ
+  flutter_local_notifications: ^18.0.1
+  permission_handler: ^11.3.0
+  url_launcher: ^6.3.2
+  share_plus: ^13.1.0
+  package_info_plus: ^10.1.0
+  google_sign_in: ^6.2.2
+  timezone: ^0.9.2
+  audioplayers: ^6.1.0
+  
+  in_app_review: ^2.0.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/app_icon.png
+    - assets/badges/clown.png
+    - assets/badges/noob.png
+    - assets/badges/novice.png
+    - assets/badges/average.png
+    - assets/badges/advanced.png
+    - assets/badges/sigma.png
+    - assets/badges/chad.png
+    - assets/badges/absolute_chad.png
+    - assets/badges/giga_chad.png
+    - assets/sounds/welcome_sound.mp3
+    - assets/sounds/congrats_sound.mp3
+    - assets/sounds/reminder_sound.mp3
+
+# ✅ আইকনের চারপাশের সাদা ব্যাকগ্রাউন্ড ফিক্স করতে অ্যাডাপ্টিভ আইকন কনফিগারেশন
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "#0d1b2a" 
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
+
+google_sign_in:
+  web_client_id: "858173166018-q7dpnd40t3vi8b788t01atlvsd5mudtd.apps.googleusercontent.com"

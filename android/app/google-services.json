@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "858173166018",
+    "project_id": "focus-tracker-9d665",
+    "storage_bucket": "focus-tracker-9d665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858173166018:android:8be4ac97e96995a692865b",
+        "android_client_info": {
+          "package_name": "com.example.focus_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858173166018-q7dpnd40t3vi8b788t01atlvsd5mudtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZs3uLWrK0kgYMq26uz4bBWzm6LI7ZFvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858173166018-q7dpnd40t3vi8b788t01atlvsd5mudtd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858173166018-muhiq4m5fpf71njg1g4bgmegjt6glo9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rifatChatbox"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858173166018:android:f4fd5e976936913a92865b",
+        "android_client_info": {
+          "package_name": "com.loopchat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858173166018-q7dpnd40t3vi8b788t01atlvsd5mudtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZs3uLWrK0kgYMq26uz4bBWzm6LI7ZFvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858173166018-q7dpnd40t3vi8b788t01atlvsd5mudtd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858173166018-muhiq4m5fpf71njg1g4bgmegjt6glo9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rifatChatbox"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858173166018:android:370dedc7b9cde79292865b",
+        "android_client_info": {
+          "package_name": "com.rifat.focus_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858173166018-11ugi2t0hole17qd21c2po937944aept.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rifat.focus_track",
+            "certificate_hash": "2ce8efdc8cd0e01477ea36f90886229d9cec00c4"
+          }
+        },
+        {
+          "client_id": "858173166018-q7dpnd40t3vi8b788t01atlvsd5mudtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZs3uLWrK0kgYMq26uz4bBWzm6LI7ZFvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858173166018-q7dpnd40t3vi8b788t01atlvsd5mudtd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858173166018-muhiq4m5fpf71njg1g4bgmegjt6glo9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rifatChatbox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
